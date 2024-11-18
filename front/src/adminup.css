@@ -1,0 +1,31 @@
+.i{
+   margin-left: 550px;
+   margin-top: 50px;
+   width: 400px;
+   height:350px;
+   border: 1px solid grey;
+   justify-content: center;
+   background-color: linear-gradient(to bottom rgb(112, 162, 190),rgb(223, 169, 169));
+   background-color: rgb(204, 224, 217);
+   border-radius: 10px;
+}
+
+.l{
+   margin-left: 25px;
+   font-weight: 100;
+   font-size: 25px;
+   font-family: bold ;
+}
+
+.imn{
+   padding-left: 200px;
+   margin-left: 10px;
+   border-radius: 20px;
+}
+
+.d{
+   margin-left: 150px;
+   background-color: blue;
+border-radius: 30px;
+   color: bisque;
+}

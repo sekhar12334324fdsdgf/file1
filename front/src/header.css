@@ -1,0 +1,53 @@
+.head{
+    display:flex;
+    gap: 615px;
+    width: fit-content;
+    height: min-content; 
+     background-color: darkslategrey;
+    color: whitesmoke;
+}
+ .right{
+    display: flex;
+    gap: 50px;
+    padding-left: 50px; 
+} 
+ 
+ .middle{
+    display: flex;
+    gap: 20px;
+    border: 1px black;
+    padding: 10px;
+} 
+
+ /* display: flex;
+    align-items: center;
+    gap: 10px;
+    border: 1px solid black;
+    padding: 10px; 
+     padding-left: 200px;
+    border-radius: 30px;
+    background-color: rgb(245, 247, 242);
+    margin: 10px ;  
+     border: 0px solid black;
+padding: 10px;
+padding-left: 0px;
+background-color: darkolivegreen;
+border-radius: 100px; */
+
+input{
+    border:none;
+  padding-top: 13px;
+    border-radius: 50px;
+    padding-left: 10px;
+}
+
+
+ .left{
+    display: flex;
+    gap: 10px;
+    width: 100%;
+    background-color: darkslategrey;
+} 
+
+
+

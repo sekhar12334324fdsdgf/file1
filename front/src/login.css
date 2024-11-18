@@ -1,0 +1,43 @@
+.login {
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    width: 400px;
+    max-width: 90%;
+    background-image: linear-gradient(to bottom, #1e4827, #cce4cf);
+}
+
+.divl {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.labell, .labelll {
+     font-weight: bold;
+font-size: 1.2em;
+}   
+
+.inpitl {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.buttonl {
+    background-color: cornflowerblue;
+    color: aliceblue;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.buttonl:hover {
+    background-color: dodgerblue;
+}
+.ll{
+    text-align: center;
+    margin-left: 600px;
+    margin-top: 200px;
+}

@@ -1,0 +1,99 @@
+.bm{
+    justify-content: center;
+    display: flex;
+    gap:300px;
+}
+.btm{
+    text-decoration: none;
+    color:aliceblue;
+    background-color: rgb(76, 137, 165); 
+    border: none;
+    border-radius: 10px;
+}
+
+.upload {
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    width: 400px;
+    max-width: 90%;
+    background-image: linear-gradient(to bottom, #5bafd2, #cce4cf);
+}
+
+.labelm{
+    margin-right: 50px;
+    justify-content: center;
+    font-weight: bold;
+    
+}
+.im {
+    padding-right: 150px;
+    border: 1px solid #ccc;
+    border-radius: 25px;
+
+}
+
+/* 
+#name{
+    margin-left: 50px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+#email{
+    margin-left: 50px;
+    padding:5px;
+    border-radius: 10px;
+}
+
+#mobile{
+    margin-left: 42px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+#exper{
+    margin-left: 28px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+#date{
+    margin-left: 5px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+#depart{
+    margin-left: 40px;
+    padding: 5px;
+    border-radius: 10px;
+}
+#psd{
+    margin-left: 40px;
+    padding: 5px;
+    border-radius: 10px;
+}
+#role{
+    margin-left: 50px;
+    padding: 5px;
+    border-radius: 10px;
+} */
+.mm{
+    text-align: center;
+    margin-left: 600px;
+    margin-top: 30px;
+}
+
+.buttonm {
+    background-color: cornflowerblue;
+    color: aliceblue;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.buttonm:hover {
+    background-color: dodgerblue;
+}

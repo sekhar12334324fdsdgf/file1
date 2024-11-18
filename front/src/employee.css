@@ -1,0 +1,120 @@
+.be{
+    justify-content: center;
+    display: flex;
+    gap:300px;
+}
+.bte{
+    text-decoration: none;
+    color:aliceblue;
+    background-color: rgb(76, 137, 165); 
+    border: none;
+    border-radius: 10px;
+}
+
+.do {
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    width: 400px;
+    max-width: 90%;
+    background-image: linear-gradient(to bottom, #5bafd2, #cce4cf);
+}
+.labele{
+    margin-right: 50px;
+    justify-content: center;
+    font-weight: bold;
+}
+.ie {
+    padding-right: 150px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+/* .labelee{
+    text-align: center;
+    font-size: bold;
+    /* font-weight: bold;
+font-size: 1.2em; */
+
+/* }
+.labeleee{
+    text-align: center;
+    font-size: bold;
+margin-right: 50px; */
+ /*
+ font-weight: bold;
+ /* font-size: 1.2em;} */
+
+/* #name{
+    border-radius: 10px;
+    margin-left: 50px;
+    padding: 5px;
+    /* padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px; */
+/* }
+
+#email{
+    margin-left: 50px;
+    padding:5px;
+    border-radius: 10px;
+}
+
+#mobile{
+    margin-left: 42px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+#exper1{
+    margin-left: 28px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+#no{
+    margin-left: 50px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+
+#date{
+    margin-left: 5px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+#depart{
+    margin-left: 40px;
+    padding: 5px;
+    border-radius: 10px;
+} */
+/* #psd{
+    margin-left: 40px;
+    padding: 5px;
+    border-radius: 10px;
+}
+#role{
+    margin-left: 50px;
+    padding: 5px;
+    border-radius: 10px;
+}  */
+.ee{
+    text-align: center;
+    margin-left: 600px;
+    margin-top: 30px;
+}
+
+.buttone {
+    background-color: cornflowerblue;
+    color: aliceblue;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.buttone:hover {
+    background-color: dodgerblue;
+}
+
